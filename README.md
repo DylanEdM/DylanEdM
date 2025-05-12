@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DylanEdM
+- 👀 I’m interested in Zero Trust tech, Quantum Computing, AI, Chemical and Biological computing plus BioTech using it all for social advancement.
+- 🌱 I’m currently learning C++, Java and Web Development
+- 📫 How to reach me:
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a figure skater!
